@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xiuxi1.github.io/bks/posts/6445d3a1.html</loc>
+    
+    <lastmod>2023-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiuxi1.github.io/bks/posts/64683e9e.html</loc>
+    
+    <lastmod>2023-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xiuxi1.github.io/bks/posts/64866fec.html</loc>
     
     <lastmod>2023-06-12</lastmod>
@@ -66,6 +84,13 @@
   
   <url>
     <loc>https://xiuxi1.github.io/bks/tags/%E4%B9%A6%E7%B1%8D%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiuxi1.github.io/bks/tags/%E6%84%9F%E6%83%B3/</loc>
     <lastmod>2023-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
